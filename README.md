@@ -7,4 +7,4 @@
 <h3> Run "static ." in terminal/command line.</h3></br>
 <h3> Open localhost and you're ready! </h3></br>
 
-<img src="http://imgur.com/a/7zlej" title="source: imgur.com" />
+<a href="http://imgur.com/GihhiyI"><img src="http://i.imgur.com/GihhiyI.png" title="source: imgur.com" /></a>
