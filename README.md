@@ -4,5 +4,5 @@
 
 <h3> To preview each project simply clone this repository.</h3></br>
 <h3> Make sure to have <a href="https://nodejs.org/en/download/"> Node.js </a> downloaded and ready to go so we can run a simple static server.</h3></br>
-<h3> Run "static ." </h3></br>
+<h3> Run "static ." in terminal/command line.</h3></br>
 <h3> Open localhost and you're ready! </h3></br>
