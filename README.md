@@ -7,4 +7,3 @@
 <h3> Run "static ." in terminal/command line.</h3></br>
 <h3> Open localhost and you're ready! </h3></br>
 
-<img src="http://imgur.com/a/7zlej" alt="Drumset created in JS,CSS,HTML" height="42" width="42">
