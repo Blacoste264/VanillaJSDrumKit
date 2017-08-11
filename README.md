@@ -6,3 +6,5 @@
 <h3> Make sure to have <a href="https://nodejs.org/en/download/"> Node.js </a> downloaded and ready to go so we can run a simple static server.</h3></br>
 <h3> Run "static ." in terminal/command line.</h3></br>
 <h3> Open localhost and you're ready! </h3></br>
+
+<img src="http://imgur.com/a/7zlej" alt="Drumset created with JavaScript, HTML, and CSS">
