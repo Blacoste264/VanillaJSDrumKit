@@ -7,4 +7,4 @@
 <h3> Run "static ." in terminal/command line.</h3></br>
 <h3> Open localhost and you're ready! </h3></br>
 
-<img src="http://imgur.com/a/7zlej" alt="Drumset created with JavaScript, HTML, and CSS">
+<img src="http://imgur.com/a/7zlej" alt="Drumset created with JavaScript, HTML, and CSS"/>
